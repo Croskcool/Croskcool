@@ -3,7 +3,7 @@
 - What i suggest everyone to read 
 - - https://xyproblem.info/
 - 🌱 I’m currently learning JWE & JWS
-- 💞️ I’m looking to collaborate on anything that 
+- 💞️ I’m looking to collaborate on anything that involves AWS, Java, Kotlin.
 - 📫 Reach me at croskcool@gmail.com
 
 <!---
