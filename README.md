@@ -2,6 +2,7 @@
 - 👀 I’m an [1x engineer](https://1x.engineer/)
 - What i suggest everyone to read 
 - - https://xyproblem.info/
+  - https://clig.dev/
 - 🌱 I’m currently learning JWE & JWS
 - 💞️ I’m looking to collaborate on anything that involves AWS, Java, Kotlin.
 - 📫 Reach me at croskcool@gmail.com
