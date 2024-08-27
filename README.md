@@ -8,6 +8,7 @@
 - 📫 Reach me at croskcool@gmail.com
 - Important links
   - https://howvideo.works/
+  - https://howdns.works/
   - https://mathieu.fenniak.net/the-api-checklist/
   - https://jepsen.io/consistency
 <!---
