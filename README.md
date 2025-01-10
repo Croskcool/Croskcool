@@ -11,6 +11,8 @@
   - https://howdns.works/
   - https://mathieu.fenniak.net/the-api-checklist/
   - https://jepsen.io/consistency
+  - https://planetscale.com/blog/btrees-and-database-indexes
+  - https://planetscale.com/blog/database-sharding
 <!---
 Croskcool/Croskcool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
