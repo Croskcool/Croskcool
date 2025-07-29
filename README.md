@@ -13,6 +13,7 @@
   - https://jepsen.io/consistency
   - https://planetscale.com/blog/btrees-and-database-indexes
   - https://planetscale.com/blog/database-sharding
+  - https://region-comparison.aws.com/
 <!---
 Croskcool/Croskcool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
